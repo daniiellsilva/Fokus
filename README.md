@@ -1,4 +1,4 @@
-# 🎯 Focus — Temporizador de Foco
+# 🎯 Fokus — Temporizador de Foco
 
 Projeto desenvolvido durante o curso **“Manipulando elementos no DOM”**, da **Alura**, com o instrutor **Luan Alves**.
 
